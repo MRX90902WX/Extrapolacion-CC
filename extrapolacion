@@ -30,7 +30,8 @@ echo -e "$cyan----> $blanco${Extrapolacion:0:11}xxxxx "
 echo -e "$cyan----> $blanco${Extrapolacion:0:8}xxxx${Extrapolacion:12:1}x${Extrapolacion:14:16} "
 echo -e "$cyan----> $blanco${Extrapolacion:0:10}xxxxxx "
 echo -e "$cyan----> $blanco${Extrapolacion:0:6}x${Extrapolacion:7:1}x${Extrapolacion:9:1}x${Extrapolacion:11:1}x${Extrapolacion:13:1}x${Extrapolacion:15:1} "
-
+echo ""
+python datecc.py
 echo ""
 echo ""
 echo -e "\e[1;35m----> Sigueme >_\e[0m"
