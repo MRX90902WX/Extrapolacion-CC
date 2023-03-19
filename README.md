@@ -7,6 +7,12 @@ CLONAR REPOSITORIO
 
 - cd Extrapolacion-CC
 
+- pip install random
+
+- pip install randint
+
+- pip install datetime
+
 - bash extrapolaccion
 
 *****
